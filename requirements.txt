@@ -1,0 +1,7 @@
+telebot
+pandas
+datetime
+config
+pyarrow
+fastparquet
+scikit-learn
